@@ -1,0 +1,1 @@
+This repository demonstrates a bug related to unexpected behavior of the `calc()` function in CSS when dealing with nested percentage values. The bug is observed in how the `calc()` function interprets percentage values within nested elements.  The solution shows how to adjust your calculation to achieve the intended result and avoid this unexpected behavior.
